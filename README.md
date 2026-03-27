@@ -146,12 +146,6 @@ Open `http://localhost:3000`
 
 ---
 
-## Screenshots
-
-> _Add screenshots here_
-
----
-
 ## Author
 
 Built by [Niteesh](https://github.com/Niteesh3110)
